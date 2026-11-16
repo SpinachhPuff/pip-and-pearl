@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" role="img" aria-label="Pip and Pearl logo">
+  <rect x="3" y="3" width="82" height="82" rx="25" fill="#DCD0A8" stroke="#292A24" stroke-width="3"/>
+  <path d="M23 31q21-9 42 0l-6 37q-15 8-30 0z" fill="#F8F2E6" stroke="#292A24" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M25 47q18-9 38 0l-4 20q-15 8-30 0z" fill="#AFC38D"/>
+  <path d="M21 31q23 8 46 0" fill="none" stroke="#292A24" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M42 27 47 11" fill="none" stroke="#292A24" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="36" cy="58" r="3.5" fill="#70604F"/><circle cx="47" cy="62" r="3.5" fill="#70604F"/><circle cx="54" cy="55" r="3.5" fill="#70604F"/>
+  <path d="M35 43q2-3 4 0m10 0q2-3 4 0m-12 5q3 4 7 0" fill="none" stroke="#292A24" stroke-width="2" stroke-linecap="round"/>
+  <path d="M68 13q2-7 5 0 7-2 2 4 2 7-4 5-4 5-6-2-6-2-2-6z" fill="#F5DDE1" stroke="#292A24" stroke-width="2"/>
+  <circle cx="70" cy="17" r="2" fill="#D4B173"/>
+</svg>
